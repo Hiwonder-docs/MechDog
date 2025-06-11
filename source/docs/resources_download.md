@@ -1,8 +1,8 @@
 # Appendix
 
 * Firmware Flashing Tool and Firmware : [Firmware Flashing Tool and Firmware]()
-* MechDog PC Software (Windows Version) ：[MechDog.exe]()
-* MechDog PC Software (MacOS Version) ：[MechDog.exe]()
+* MechDog PC Software (Windows Version) ：[MechDog.exe](https://play.google.com/store/apps/details?id=com.hiwonder.mechdog)
+* MechDog PC Software (MacOS Version) ：[MechDog.exe](https://apps.apple.com/cn/app/mechdog/id6738078206)
 * APP Control Program : [APP Control Program]()
 * Python Editor : [Hiwonder Python Editor]()
 * WonderCode Installation Pack(Windows Version)  : [WonderCode]()
