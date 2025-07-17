@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-MechDog
+MechDog & MechDog Pro
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: MechDog
+   :caption: MechDog & MechDog Pro
 
    docs/1.Getting_Ready.md
    docs/2.APP_Control.md
