@@ -19,5 +19,7 @@ MechDog
    docs/6.microbit_Programming_Projects.md
    docs/7.Action_Editing_Course.md
    docs/8.Group_Control.md
+   docs/9.IOT_Expanded_Lesson.md
+   docs/10.Robotic_Arm_Expanded_Lesson.md
    docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1bMJVmioDbAy-SkpGk95jyxZ026cdlB8L?usp=sharing>
